@@ -1,9 +1,8 @@
+import Weather from "./components/Weather";
 
 const App = () => {
   return(
-    <>
-    <h1>Mi app</h1>
-    </>
+    <Weather />
   )
 }
 
